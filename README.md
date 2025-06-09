@@ -6,7 +6,7 @@ With over 5.5 years of experience, I specialize in designing and implementing ro
 
 ## About Me 🌐
 
-- 🎯 Currently leading a real-time IoT platform at 99x using Angular, NgRx, GraphQL, Django, and WebSocket 🔧
+- 🎯 Currently leading a real-time IoT platform using Angular, NgRx, GraphQL, Django, and WebSocket 🔧
 - 💻 Skilled in frontend (Angular, TypeScript, Ionic, PrimeNG, Angular Material) and backend (Django, Python, RESTful APIs, Kafka) development 🛠️
 - 🌐 Building scalable, responsive web apps with TailwindCSS, lazy loading, and CI/CD pipelines 🏗️
 - 🚀 Open to collaborate on full-stack projects using Angular and Django 🤝
