@@ -1,6 +1,6 @@
 ## Hi there! I am Roland from Malaysia 👋🌴
 
-With over 5.5 years of experience, I specialize in designing and implementing robust web applications using Angular and Django. Passionate about delivering scalable solutions through Agile methodologies. 🚀
+With over 6 years of experience, I specialize in designing and implementing robust web applications using Angular and Django. Passionate about delivering scalable solutions through Agile methodologies. 🚀
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" style="float: left; width: 100px; height: 100px; margin: 0 15px 15px 0;" />
 
